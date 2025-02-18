@@ -4,3 +4,8 @@
 
 - 📫 How to reach me Discord: .gottlos
 
+  
+my currently projects are:
+   - Gamesync
+   - My About Me Page (gottlos.eu/me)
+     
